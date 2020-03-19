@@ -9,6 +9,7 @@
     <version>0.1.1</version>
     <modules>
         <module>litemalls-db</module>
+        <module>litemalls-core</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -27,6 +28,17 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>com.javaniuniu</groupId>
+                <artifactId>litemalls-core</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.javaniuniu</groupId>
+                <artifactId>litemalls-db</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            
             <!-- Spring Boot Mybatis 依赖 -->
             <dependency>
                 <groupId>org.mybatis.spring.boot</groupId>

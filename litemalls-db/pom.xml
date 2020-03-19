@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>litemalls-db</artifactId>
-    <name>domain节点及数据库操作</name>
+    <description>domain节点及数据库操作</description>
 
     <dependencies>
 

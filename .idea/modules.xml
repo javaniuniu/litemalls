@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/litemalls.iml" filepath="$PROJECT_DIR$/.idea/litemalls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litemalls-core/litemalls-core.iml" filepath="$PROJECT_DIR$/litemalls-core/litemalls-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/litemalls-db/litemalls-db.iml" filepath="$PROJECT_DIR$/litemalls-db/litemalls-db.iml" />
     </modules>
   </component>
