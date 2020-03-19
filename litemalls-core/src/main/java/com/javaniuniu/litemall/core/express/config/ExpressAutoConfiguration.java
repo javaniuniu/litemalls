@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 /**
+ * 物流配置类
  * 配置文件传递到 ExpressService 类
  * @Author: java牛牛
  * @Web: http://javaniuniu.com
