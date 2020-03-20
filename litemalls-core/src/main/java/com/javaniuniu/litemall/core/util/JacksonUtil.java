@@ -12,7 +12,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * TODO JSON格式转换
+ * JSON格式转换
+ * 参考链接 [ObjectMapper使用](https://www.cnblogs.com/xuwenjin/p/8976696.html)
  *
  * @Author: java牛牛
  * @Web: http://javaniuniu.com
@@ -178,4 +179,5 @@ public class JacksonUtil {
         }
         return null;
     }
+
 }
