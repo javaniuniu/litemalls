@@ -8,9 +8,9 @@ import org.springframework.core.env.Environment;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
-@WebAppConfiguration
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringBootTest
+//@WebAppConfiguration
+//@RunWith(SpringJUnit4ClassRunner.class)
+//@SpringBootTest
 public class AllinoneConfigTest {
     @Autowired
     private Environment environment;
