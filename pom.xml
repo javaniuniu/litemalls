@@ -10,6 +10,7 @@
     <modules>
         <module>litemalls-db</module>
         <module>litemalls-core</module>
+        <module>litemalls-admin-api</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -36,6 +37,11 @@
             <dependency>
                 <groupId>com.javaniuniu</groupId>
                 <artifactId>litemalls-db</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.javaniuniu</groupId>
+                <artifactId>litemalls-admin-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             
