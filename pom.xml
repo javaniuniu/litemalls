@@ -11,6 +11,7 @@
         <module>litemalls-db</module>
         <module>litemalls-core</module>
         <module>litemalls-admin-api</module>
+        <module>litemalls-wx-api</module>
     </modules>
     <packaging>pom</packaging>
 

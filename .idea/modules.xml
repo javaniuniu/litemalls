@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/litemalls-admin-api/litemalls-admin-api.iml" filepath="$PROJECT_DIR$/litemalls-admin-api/litemalls-admin-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/litemalls-core/litemalls-core.iml" filepath="$PROJECT_DIR$/litemalls-core/litemalls-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/litemalls-db/litemalls-db.iml" filepath="$PROJECT_DIR$/litemalls-db/litemalls-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litemalls-wx-api/litemalls-wx-api.iml" filepath="$PROJECT_DIR$/litemalls-wx-api/litemalls-wx-api.iml" />
     </modules>
   </component>
 </project>
