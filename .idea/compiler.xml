@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="litemalls-all" />
         <module name="litemalls-wx-api" />
         <module name="litemalls-core" />
         <module name="litemalls-admin-api" />
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="litemalls" target="1.8" />
       <module name="litemalls-admin-api" target="1.8" />
+      <module name="litemalls-all" target="1.8" />
       <module name="litemalls-core" target="1.8" />
       <module name="litemalls-db" target="1.8" />
       <module name="litemalls-wx-api" target="1.8" />
@@ -23,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="litemalls-admin-api" options="-parameters" />
+      <module name="litemalls-all" options="-parameters" />
       <module name="litemalls-core" options="-parameters" />
       <module name="litemalls-db" options="-parameters" />
       <module name="litemalls-wx-api" options="-parameters" />
